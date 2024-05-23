@@ -1,8 +1,27 @@
-**In this applicatind Add new todo,delete todo ,display todolist
-all these functions are designed user friendly.**
+# To-Do Application
 
+## Overview
+This is a simple To-Do application designed to help users manage their tasks efficiently. The application allows users to add, edit, and delete tasks, as well as mark tasks as complete.
 
-**
-This project showcases my ability to create functional and
-visually appealing web solutions that enhance user
-productivity and satisfaction.**
+## Features
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- Mark tasks as complete
+- Filter tasks by status (All, Active, Completed)
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
+
+### Prerequisites
+- A modern web browser
+
+### Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/your-repository.git
+   cd your-repository
